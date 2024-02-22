@@ -9,7 +9,7 @@ I'm an IT engineering student, and in my free time, I love to code, explore new 
 
 Below is a list of technologies that I have learned on my own, my preference is `*.cs` in `.NET`, however I am currently delving into `Vue.js 3`.
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,vue,cs,dotnet,arduino,cpp,kotlin,git,vscode,visualstudio&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,vue,svelte,cs,dotnet,arduino,cpp,kotlin,godot,git,vscode,visualstudio&theme=dark)](https://skills.thijs.gg)
 
 ## My Interests
 
