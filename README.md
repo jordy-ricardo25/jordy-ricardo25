@@ -2,14 +2,14 @@
 
 # Hi there! 👋
 
-I'm Ricardo✨, and I'm passionate about desktop development in .NET and web development with Vue.js.
+I'm Ricardo✨, and I'm passionate about development in [.NET](https://dotnet.microsoft.com/) and web development with [Sveltekit](https://kit.svelte.dev/).
 ## About Me
 
 I'm an IT engineering student, and in my free time, I love to code, explore new technologies, and contribute to open-source projects.
 
-Below is a list of technologies that I have learned on my own, my preference is `*.cs` in `.NET`, however I am currently delving into `Vue.js 3`.
+Below is a list of technologies that I have learned on my own, my preference is `*.cs` in `.NET`, however I am currently delving into `Sveltekit` n `Kotlin`.
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,arduino,html,css,js,ts,vue,svelte,cs,dotnet,kotlin,androidstudio&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=github,git,arduino,html,css,ts,sass,svelte,cs,dotnet,kotlin,androidstudio&theme=light)](https://skillicons.dev)
 
 ## My Interests
 
@@ -22,8 +22,9 @@ Below is a list of technologies that I have learned on my own, my preference is 
 
 Here are some of the projects I've been working on:
 
-- [Alessia (Universal Windows)](https://github.com/MSB-Studios/Alessia-Universal-Windows): Lightweight and beautiful music player for Windows 10.
+- [Alessia (Universal Windows)](https://github.com/MSB-Studios/Alessia-Universal-Windows): Lightweight and beautiful music player for Windows 10+.
 - [Flowers (Windows Presentation)](https://github.com/jordy-ricardo25/Flowers-Windows-Presentation): Simple example of a connection to a DB made in PostgreSQL.
+- [Comedor Politecnico (Android)](https://github.com/ETSA-Labs/Comedor-Politecnico): Application to manage menus, reservations, payments, etc. in the canteen of a university.
 
 ## Open Source Contributions
 
