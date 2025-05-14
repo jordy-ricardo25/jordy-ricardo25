@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center"><strong>💼 Freelance Contributor Account</strong></p>
+<p align="center"><strong>💼 Contributor Account</strong></p>
 
 <p align="center">
   <a href="https://github.com/jordy-carrion">
