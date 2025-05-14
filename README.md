@@ -1,4 +1,23 @@
-[![](https://github-readme-stats.vercel.app/api?username=jordy-ricardo25&show_icons=true&hide_title=true&theme=nightowl)](https://github.com/jordy-ricardo25)
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <div>
+        <strong>🙋 Personal Account</strong>
+      </div>
+      <a href="https://github.com/jordy-ricardo25">
+        <img src="https://github-readme-stats.vercel.app/api?username=jordy-ricardo25&show_icons=true&hide_title=true&theme=nightowl" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <div>
+        <strong>💼 Contributor Account</strong>
+      </div>
+      <a href="https://github.com/jordy-carrion">
+        <img src="https://github-readme-stats.vercel.app/api?username=jordy-carrion&show_icons=true&hide_title=true&theme=dracula" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 # Hi there! 👋
 
@@ -9,7 +28,7 @@ I'm an IT engineering student, and in my free time, I love to code, explore new 
 
 Below is a list of technologies that I have learned on my own, my preference is `*.cs` in `.NET`, however I am currently delving into `Sveltekit` n `Kotlin`.
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,arduino,html,css,ts,sass,svelte,cs,dotnet,kotlin,androidstudio&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,arduino,html,css,ts,sass,svelte,nodejs,cs,dotnet,kotlin,vue,mysql,sqlite&theme=light)](https://skillicons.dev)
 
 ## My Interests
 
