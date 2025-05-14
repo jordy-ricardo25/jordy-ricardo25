@@ -1,23 +1,20 @@
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="top">
-      <div>
-        <strong>🙋 Personal Account</strong>
-      </div>
-      <a href="https://github.com/jordy-ricardo25">
-        <img src="https://github-readme-stats.vercel.app/api?username=jordy-ricardo25&show_icons=true&hide_title=true&theme=nightowl" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <div>
-        <strong>💼 Contributor Account</strong>
-      </div>
-      <a href="https://github.com/jordy-carrion">
-        <img src="https://github-readme-stats.vercel.app/api?username=jordy-carrion&show_icons=true&hide_title=true&theme=dracula" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center"><strong>🙋 Personal Account</strong></p>
+
+<p align="center">
+  <a href="https://github.com/jordy-ricardo25">
+    <img src="https://github-readme-stats.vercel.app/api?username=jordy-ricardo25&show_icons=true&hide_title=true&theme=nightowl" />
+  </a>
+</p>
+
+<p align="center"><strong>💼 Freelance Contributor Account</strong></p>
+
+<p align="center">
+  <a href="https://github.com/jordy-carrion">
+    <img src="https://github-readme-stats.vercel.app/api?username=jordy-carrion&show_icons=true&hide_title=true&theme=dracula" />
+  </a>
+</p>
+
+
 
 # Hi there! 👋
 
