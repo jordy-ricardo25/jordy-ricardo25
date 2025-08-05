@@ -25,7 +25,7 @@ I'm an IT engineering student, and in my free time, I love to code, explore new 
 
 Below is a list of technologies that I have learned on my own, my preference is `*.cs` in `.NET`, however I am currently delving into `Sveltekit` n `Kotlin`.
 
-[![My Skills](https://skillicons.dev/icons?i=git,arduino,html,css,ts,sass,svelte,nodejs,cs,dotnet,kotlin,vue,mysql,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,ts,sass,svelte,vue,nodejs,cs,dotnet,kotlin,dart,flutter,mysql,postgresql&theme=light)](https://skillicons.dev)
 
 ## My Interests
 
@@ -60,5 +60,5 @@ I believe in the power of open source, and I actively contribute to the followin
 I'm always interested in connecting with fellow developers and tech enthusiasts. Feel free to reach out to me if you want to discuss anything or collaborate on a project.
 
 [![GitHub followers](https://img.shields.io/github/followers/jordy-ricardo25?label=Follow&style=social)](https://github.com/jordy-ricardo25)
-[![Twitter Follow](https://img.shields.io/twitter/follow/immikesb?style=social)](https://twitter.com/immikesb)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJordyRicardo25&style=social&label=%40JordyRicardo25)](https://x.com/JordyRicardo25)
 
