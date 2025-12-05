@@ -18,14 +18,14 @@
 
 # Hi there! 👋
 
-I'm Ricardo✨, and I'm passionate about development in [.NET](https://dotnet.microsoft.com/) and web development with [Sveltekit](https://kit.svelte.dev/).
+I'm Ricardo✨, and I'm passionate about development in [.NET](https://dotnet.microsoft.com/) and web development with [Node](https://nodejs.org/es).
 ## About Me
 
 I'm an IT engineering student, and in my free time, I love to code, explore new technologies, and contribute to open-source projects.
 
 Below is a list of technologies that I have learned on my own, my preference is `*.cs` in `.NET`, however I am currently delving into `Sveltekit` n `Kotlin`.
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,ts,sass,svelte,vue,nodejs,cs,dotnet,kotlin,dart,flutter,mysql,postgresql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,ts,sass,svelte,react,next,nest,nodejs,dotnet,kotlin,flutter,postgresql,aws,gcp&theme=light)](https://skillicons.dev)
 
 ## My Interests
 
